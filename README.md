@@ -1,1 +1,1 @@
-# Numberplate-Recognition-System-using-YOLO-EasyOCR-SortEasyO
+# Number-Plate-Recognition-System-using-YOLO-EasyOCR-Sort
